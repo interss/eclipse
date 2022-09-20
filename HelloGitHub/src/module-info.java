@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Conta
+ *
+ */
+module HelloGitHub {
+}
